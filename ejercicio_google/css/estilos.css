@@ -1,0 +1,14 @@
+.barraxd-container {
+    width: 650px;
+    border-radius: 200px;
+    border: 1px solid #dfe1e5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+  }
+  .img-google{
+    width: 530px;
+    margin: 0 auto;
+    margin-bottom: 35px;
+  }
