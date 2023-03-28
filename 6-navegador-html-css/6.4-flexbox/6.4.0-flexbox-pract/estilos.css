@@ -1,0 +1,18 @@
+.container{
+    display:flex;
+    padding: 100px;
+    margin:20px;
+    border:solid rgb(8, 56, 52);
+    background-color: aquamarine;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap:wrap;
+}
+
+.item{
+    padding: 10px;
+    margin:5px;
+    border:solid rgb(7, 45, 80);
+    background-color: cadetblue;
+}
